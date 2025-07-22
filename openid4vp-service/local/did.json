@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs#key-0"
+    "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:local#key-0"
   ],
   "service": [],
-  "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs",
+  "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:local",
   "verificationMethod": [
     {
       "publicKeyMultibase": "z6MkiNa78yQ6zj3eKnm3uFGxFbcdWcBG5oLwbHpkaDEmE5ip",
-      "controller": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs",
-      "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs#key-0",
+      "controller": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:local",
+      "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:local#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs#key-0"
+    "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:local#key-0"
   ]
 }
