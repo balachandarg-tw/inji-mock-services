@@ -6,7 +6,7 @@
   "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkiNa78yQ6zj3eKnm3uFGxFbcdWcBG5oLwbHpkaDEmE5ip",
+      "publicKeyMultibase": "z3CSkXmF1DmgVuqPFKMTuJgn846mEuVB9rNoyP9hXribo",
       "controller": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs",
       "id": "did:web:balachandarg-tw.github.io:inji-mock-services:openid4vp-service:docs#key-0",
       "type": "Ed25519VerificationKey2020",
